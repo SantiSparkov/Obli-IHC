@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "StockEnCasa",
+    "slug": "stockencasa",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": ["android", "ios"],
+    "android": {
+      "package": "uy.edu.ort.ihc.stockencasa",
+      "permissions": ["CAMERA", "RECORD_AUDIO"]
+    },
+    "plugins": []
+  }
+}
